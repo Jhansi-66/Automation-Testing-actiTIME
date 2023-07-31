@@ -1,2 +1,2 @@
-# Automation-Testing-actiTIME
-# actiTIME project
+# actiTIME_Automation & Manual_Testing
+#        actiTIME_Project
