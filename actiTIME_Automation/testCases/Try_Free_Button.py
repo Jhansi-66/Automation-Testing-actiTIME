@@ -8,7 +8,7 @@ driver = webdriver.Chrome(executable_path='your_browser_driver_path')
 driver.maximize_window()
 
 # Replace 'actitime_url' with the actual URL of Actitime's website
-actitime_url = 'actitime_url'
+actitime_url = 'https://www.actitime.com/'
 driver.get(actitime_url)
 
 # Wait for the page to load
